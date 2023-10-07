@@ -1,0 +1,11 @@
+{
+    "TenantId_a":"a環境 AAD B2CのテナントID",
+    "ApplicationId_a":"a環境 AAD B2CのアプリケーションID",
+    "TenantId_b":"b環境 AAD B2CのテナントID",
+    "ApplicationId_b":"b環境 AAD B2CのアプリケーションID",
+    "TenantId_c":"c環境 AAD B2CのテナントID",
+    "ApplicationId_c":"c環境 AAD B2CのアプリケーションID",
+    "TenantId_d":"d環境 AAD B2CのテナントID",
+    "ApplicationId_d":"d環境 AAD B2CのアプリケーションID",
+    "CertificateThumbprint":"証明書の拇印"
+}

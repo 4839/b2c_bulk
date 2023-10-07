@@ -1,0 +1,4 @@
+作成目的：複数のB2Cテナントにユーザーを一括追加する必要が出てきたため
+
+.\module\azure_login_info.jsonに情報を記載
+.\module\list.jsonにB2Cテナントを記載
